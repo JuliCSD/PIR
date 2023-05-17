@@ -1,0 +1,2 @@
+/ip4/127.0.0.3/tcp/4003/ipfs/QmQUF662VxWqu5RdqNLhYrq64T4eoH5baQUv7Ey11uZUfH 
+ a récupéré le fichier hash : QmaBaFEaa23qb7VPfrTNs2mh58Gb7mawjC4pTQCATs3Qe9

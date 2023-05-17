@@ -1,0 +1,2 @@
+/ip4/10.56.124.32/tcp/4001/ipfs/QmX9U5v4e1p2pcK7H2mWvE87z5opXNiEU1WsXao6dZQdyi 
+ a ajouté le fichier hash : QmaBaFEaa23qb7VPfrTNs2mh58Gb7mawjC4pTQCATs3Qe9
